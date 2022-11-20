@@ -18,3 +18,5 @@ This are the list of movies there are in the theatre to watch:
 ### [!]TRAILERS
 
 ### Black Panther: Wakanda Forever
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Z3QKkl1WyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
