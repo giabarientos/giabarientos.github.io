@@ -1,5 +1,5 @@
-# giabarientos.github.io 🙌
-### HI WELCOME!
+# giabarientos.github.io 
+### HI WELCOME!🙌
 My name is Gian Andrei V. Abarientos
 and I am a person who likes to watch movies.
 It includes horror, action, and comedy.
