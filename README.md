@@ -9,19 +9,19 @@ This are the list of movies there are in the theatre to watch:
 
 
 ```
-1. Black Panther: Wakanda Forever
+- Black Panther: Wakanda Forever
 
-2. Smile
+- Smile
 
-3. Black Adam
+- Black Adam
 
-4. Prey for the Devil
+- Prey for the Devil
 ```
 ### [!]TRAILERS
 
-### **Black Panther: Wakanda Forever**
+### **Black Panther: Wakanda Forever** </br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_Z3QKkl1WyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Z3QKkl1WyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 
 ### **Smile**
@@ -37,5 +37,3 @@ This are the list of movies there are in the theatre to watch:
 ### **Prey for the Devil**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u_jJiZ2oZgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </br>
-
-There are more movies 
