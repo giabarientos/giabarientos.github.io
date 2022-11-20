@@ -1,11 +1,11 @@
-### HI WELCOME!🙌
-
+## HI WELCOME!
+### COME VISIT MY PAGE!
 My name is Gian Andrei V. Abarientos
-and I am a person who likes to watch movies.
-It includes horror, action, and comedy.
+and I am a person who likes to watch movies
+especially with family and friends. 
 
 
-This are the list of movies there are in the theatre to watch:
+These are the list of movies there are in the theatre to watch:
 
 
 ```
@@ -37,3 +37,7 @@ This are the list of movies there are in the theatre to watch:
 ### **Prey for the Devil**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u_jJiZ2oZgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+
+## **These are the movies there are in the cinema that I plan on watching soon.** 
+## **So come and choose what movie you would also likely want to watch!**
